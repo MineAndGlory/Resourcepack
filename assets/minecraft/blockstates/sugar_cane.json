@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "age=0": { "model": "block/sugar_cane" },
+        "age=1": { "model": "block/stone" },
+        "age=2": { "model": "block/cobblestone" },
+        "age=3": { "model": "block/dirt" },
+        "age=4": { "model": "block/grass_block" },
+        "age=5": { "model": "block/gravel" },
+        "age=6": { "model": "block/sand" },
+        "age=7": { "model": "block/bedrock" },
+        "age=8": { "model": "block/gold_ore" },
+        "age=9": { "model": "block/iron_ore" },
+        "age=10": { "model": "block/coal_ore" },
+        "age=11": { "model": "block/iron_block" },
+        "age=12": { "model": "block/bricks" },
+        "age=13": { "model": "block/glowstone" },
+        "age=14": { "model": "block/emerald_block" },
+        "age=15": { "model": "block/melon" }
+    }
+}

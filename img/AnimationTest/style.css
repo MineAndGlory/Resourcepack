@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(219, 184, 184);
+}
+
+
+.test {
+  fill:rgb(255, 255, 255);
+  fill-opacity:.49024395;
+  paint-order:markers stroke fill;
+  stroke-opacity:0;
+  animation: try ease-in-out infinite;
+  animation-duration: 2s;
+  position: absolute;
+  transform:matrix(.70710678 -.70710678 0 1 0 0);
+  width:54.770973;
+  height:4.4121561;
+}
+
+
+
+
+@keyframes try {
+  from {y:70;}
+  to {y:0;}
+}
