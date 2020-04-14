@@ -1,0 +1,9 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_nugget"
+	},
+	"overrides": [
+        {"predicate": {"custom_model_data": 502}, "model": "item/mineandglory/spawner_pickaxe"}
+	]
+}
