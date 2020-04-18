@@ -15,26 +15,7 @@
 
         {"predicate": {"custom_model_data": 901}, "model": "item/mineandglory/villager_coin"},
 
-        {"predicate": {"custom_model_data": 1023}, "model": "item/mineandglory/slime_finder"},
-        {"predicate": {"custom_model_data": 1024}, "model": "item/mineandglory/bone_meal_pouch"},
-
         {"predicate": {"custom_model_data": 3027}, "model": "item/mineandglory/spider_egg"},
-        {"predicate": {"custom_model_data": 3028}, "model": "item/mineandglory/rock"},
-
-		{"predicate": {"custom_model_data": 9001}, "model": "item/mineandglory/backpack"},
-        {"predicate": {"custom_model_data": 9002}, "model": "item/mineandglory/big_backpack"},
-        {"predicate": {"custom_model_data": 9003}, "model": "item/mineandglory/ender_backpack"},
-
-        {"predicate": {"custom_model_data": 34001}, "model": "item/mineandglory/stone_pickaxe_head"},
-        {"predicate": {"custom_model_data": 34002}, "model": "item/mineandglory/stone_axe_head"},
-        {"predicate": {"custom_model_data": 34003}, "model": "item/mineandglory/stone_shovel_head"},
-        {"predicate": {"custom_model_data": 34004}, "model": "item/mineandglory/stone_hoe_head"},
-        {"predicate": {"custom_model_data": 34005}, "model": "item/mineandglory/stone_sword_head"},
-        {"predicate": {"custom_model_data": 34006}, "model": "item/mineandglory/stone_blacksmith_hammer_head"},
-        {"predicate": {"custom_model_data": 34007}, "model": "item/mineandglory/stone_dagger_head"},
-        {"predicate": {"custom_model_data": 34008}, "model": "item/mineandglory/stone_hammer_head"},
-        {"predicate": {"custom_model_data": 34009}, "model": "item/mineandglory/stone_excavator_head"},
-        {"predicate": {"custom_model_data": 34010}, "model": "item/mineandglory/stone_bow_limb"},
-        {"predicate": {"custom_model_data": 34011}, "model": "item/mineandglory/stone_shield_plate"}
+        {"predicate": {"custom_model_data": 3028}, "model": "item/mineandglory/rock"}
 	]
 }
