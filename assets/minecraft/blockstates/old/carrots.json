@@ -1,9 +1,9 @@
 {
     "variants": {
-        "age=0": { "model": "block/lettuce_stage0" },
+        "age=0": { "model": "block/carrots_stage0" },
         "age=1": { "model": "block/tomato_stage0" },
         "age=2": { "model": "block/carrots_stage1" },
-        "age=3": { "model": "block/lettuce_stage1" },
+        "age=3": { "model": "block/tomato_stage1" },
         "age=4": { "model": "block/carrots_stage2" },
         "age=5": { "model": "block/tomato_stage2" },
         "age=6": { "model": "block/carrots_stage3" },
