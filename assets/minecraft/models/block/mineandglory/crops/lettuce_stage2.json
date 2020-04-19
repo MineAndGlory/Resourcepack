@@ -1,6 +1,6 @@
 {
     "parent": "block/crop",
     "textures": {
-        "crop": "block/mineandglory/crops/lettuce_stage3"
+        "crop": "block/mineandglory/crops/lettuce_stage2"
     }
 }

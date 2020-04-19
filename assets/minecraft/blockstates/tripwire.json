@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "disarmed=true,east=true,north=false,south=false,west=false,attached=false": { "model": "block/potatoes_stage3" },
+        "disarmed=true,east=false,north=true,south=false,west=false,attached=false": { "model": "block/mineandglory/crops/lettuce_stage3" },
+        "disarmed=true,east=true,north=true,south=false,west=false,attached=false": { "model": "block/carrots_stage3" },
+        "disarmed=true,east=false,north=false,south=true,west=false,attached=false": { "model": "block/mineandglory/crops/tomato_stage3" }
+    }
+}
