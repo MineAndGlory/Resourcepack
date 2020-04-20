@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/apple"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 101}, "model": "item/mineandglory/tomato"},
+		{"predicate": {"custom_model_data": 102}, "model": "item/mineandglory/lettuce"},
+		{"predicate": {"custom_model_data": 103}, "model": "item/mineandglory/strawberry"},
+		{"predicate": {"custom_model_data": 104}, "model": "item/mineandglory/raspberry"},
+		{"predicate": {"custom_model_data": 105}, "model": "item/mineandglory/rice"}
+
+	]
+}
