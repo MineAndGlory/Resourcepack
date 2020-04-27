@@ -11,6 +11,9 @@
         {"predicate": {"custom_model_data": 9002}, "model": "item/mineandglory/big_backpack"},
         {"predicate": {"custom_model_data": 9003}, "model": "item/mineandglory/ender_backpack"},
 
+        {"predicate": {"custom_model_data": 9601}, "model": "item/mineandglory/next"},
+        {"predicate": {"custom_model_data": 9602}, "model": "item/mineandglory/previous"},
+
         {"predicate": {"custom_model_data": 34001}, "model": "item/mineandglory/stone_pickaxe_head"},
         {"predicate": {"custom_model_data": 34002}, "model": "item/mineandglory/stone_axe_head"},
         {"predicate": {"custom_model_data": 34003}, "model": "item/mineandglory/stone_shovel_head"},
