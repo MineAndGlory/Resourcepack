@@ -1,4 +1,4 @@
-{
+        {
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "item/iron_nugget"
@@ -16,6 +16,8 @@
         {"predicate": {"custom_model_data": 901}, "model": "item/mineandglory/villager_coin"},
 
         {"predicate": {"custom_model_data": 3027}, "model": "item/mineandglory/spider_egg"},
-        {"predicate": {"custom_model_data": 3028}, "model": "item/mineandglory/rock"}
+        {"predicate": {"custom_model_data": 3028}, "model": "item/mineandglory/rock"},
+        {"predicate": {"custom_model_data": 9603}, "model": "item/mineandglory/plus"},
+        {"predicate": {"custom_model_data": 9604}, "model": "item/mineandglory/minus"}
 	]
 }
